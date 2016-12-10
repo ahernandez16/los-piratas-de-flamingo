@@ -77,6 +77,18 @@ hr {
   width: 350px;
 }
 
+/* IMAGE GRID CONTENT
+-------------------------------------------------- */
+
+/* Adds spacing between images */
+
+.main {
+  margin-top: 30px;
+}
+.img-responsive {
+  margin-bottom: 30px;
+}
+
 /* MARKETING CONTENT
 -------------------------------------------------- */
 
@@ -259,17 +271,6 @@ body {
 }
 
 
-/*
-
-Twitter blue:  #63CCEE;
-Facebook blue:  #507ABD;
-Google+: #EB6B52;
-LinkedIn: #1086C8;
-Pinterest #F05F5C;
-
-*/
-
-
 .instagram {
   background-color: rgba(64,153,255,.7);
 }
@@ -304,10 +305,6 @@ Pinterest #F05F5C;
 .youtube span {
   background-color: rgba(203,32,39,.7);
 }
-
-
-
-
 
 
 .icon-button:hover .icon-twitter,
